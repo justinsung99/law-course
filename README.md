@@ -1,2 +1,2 @@
 # law-course
-repo to contain my GO projects for Web App Service course.
+repo to contain my projects for Web App Service course.
