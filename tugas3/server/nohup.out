@@ -1,0 +1,25 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[03/Apr/2020 18:46:00] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:46:10] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:47:55] "GET /api/compress HTTP/1.1" 301 0
+Method Not Allowed: /api/compress/
+[03/Apr/2020 18:47:55] "GET /api/compress/ HTTP/1.1" 405 5610
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/jquery-3.4.1.min.js HTTP/1.1" 200 88145
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+[03/Apr/2020 18:47:55] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+[03/Apr/2020 18:51:24] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:52:14] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:52:24] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:59:02] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:59:08] "POST /api/compress/ HTTP/1.1" 200 29
+[03/Apr/2020 18:59:12] "POST /api/compress/ HTTP/1.1" 200 29
